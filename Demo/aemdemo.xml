@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "technicalContent/dtd/concept.dtd">
+<concept id="concept_79fe0f0f-f766-4256-8dad-ded6412dff7c">
+  <title>What is Adobe Experience Manager?</title>
+  <shortdesc>It is the leading digital experience management solution that helps your business deliver compelling content across experiences  such as web, mobile, and the IOT  at the scale you need to build your brand and drive engagement.Your customers and employees want each interaction with you to feel genuine. The right capabilities and workflows help you meet this expectation with efficiency and speed.</shortdesc>
+  <conbody>
+    <p>What is Experience Manager Sites?</p>
+    <p>It is a content management system within Experience Manager that gives you one place to create, manage, and deliver digital experiences across websites, mobile sites, and on-site screens to make them global in reach, yet personally relevant and engaging.</p>
+    <p>What is Adobe Experience Manager Assets?</p>
+    <p>It is the 21st century digital asset management system that uniquely connects to existing creative workflows, providing distributed teams with a centralized location to mange and deliver engaging, channel optimized experiences across your customer journey.</p>
+    <p>What is Experience Manager Forms?</p>
+    <p>It is an Experience Manager capability that helps you make form and document processes paperless, efficient, and automated. It transforms digital enrollment, onboarding, and ongoing correspondence into simple, streamlined experiences.</p>
+    <p>What is Adobe Experience Manager Communities?</p>
+    <p>It is an Experience Manager capability that helps you create online community experiences, including forums, user groups, learning resources, and other social features that are valuable to customers, employees, and your brand.</p>
+    <p>What is Adobe Experience Manager Livefyre?</p>
+    <p>It is an all-new Experience Manager capability that lets you tap into everything shared on the web to create a constant flow of fresh and high-quality content on your own sites.</p>
+  </conbody>
+  <related-links>
+    <link format="html" href="https://docs.adobe.com/docs/en/aem/6-0.html">
+    </link>
+  </related-links>
+</concept>
